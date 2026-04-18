@@ -7,7 +7,7 @@ echo "🐍 Installing Python..."
 apt install python3 python3-pip git -y
 
 echo "📥 Cloning your repo..."
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/shebin834/wazeem-repo
 
 cd YOUR_REPO
 
