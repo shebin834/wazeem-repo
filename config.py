@@ -1,18 +1,18 @@
-API_ID = 123456
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
+API_ID = 32557254
+API_HASH = "448bb61d4711ef33afff691ac1bb0931"
+BOT_TOKEN = "8728203307:AAGIgqWDXACPSbz3P_XswV8TwepAzPX15nA"
 
-MONGO_URI = "your_mongodb_url"
+MONGO_URI = "mongodb+srv://Shebin_Kallankunnan:Gid74LZ3K8nvmXdP@renamebot.xplacyv.mongodb.net/?appName=RenameBot"
 
-SOURCE_CHANNELS = [-1001111111111]
-TARGET_CHANNEL = -1002222222222
+SOURCE_CHANNELS = [-1003952532442]
+TARGET_CHANNEL = -1003803713967
 
-FORCE_SUB_CHANNEL = -1003333333333
-FORCE_SUB_LINK = "https://t.me/yourchannel"
+FORCE_SUB_CHANNEL = 
+FORCE_SUB_LINK = ""
 
-UPDATE_CHANNEL = "https://t.me/yourchannel"
+UPDATE_CHANNEL = "-1003864951556"
 
-ADMINS = [123456789]
+ADMINS = [5079722109]
 
 DEFAULT_CAPTION = "✨ Shebin Ultimate Bot"
 DEFAULT_PREFIX = "Shebin"
